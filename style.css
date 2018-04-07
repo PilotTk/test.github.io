@@ -12,7 +12,7 @@
 	font-family: "Josefin Sans";
 }
 
-.clear {
+.clear { !important
 	display: flex;
 	text-align: center;
 	flex-direction: column;
@@ -55,7 +55,7 @@
 }
 
 .party-btn {
-	display: flex;
+	display: inline-block;
 	justify-content: center;
 	background-color: white;
 	border-radius: 25px;
