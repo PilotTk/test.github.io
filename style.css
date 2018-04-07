@@ -12,14 +12,14 @@
 	font-family: "Josefin Sans";
 }
 
-.clear { !important
+.clear { 
 	display: flex;
 	text-align: center;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	border-radius: 25px;
 }
+
 .row {
 	display: flex;
 	flex-flow: row-wrap;
